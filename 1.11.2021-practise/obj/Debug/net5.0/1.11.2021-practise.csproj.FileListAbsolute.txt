@@ -1,0 +1,16 @@
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.exe
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.deps.json
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.runtimeconfig.json
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.runtimeconfig.dev.json
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.dll
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\ref\1.11.2021-practise.dll
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\bin\Debug\net5.0\1.11.2021-practise.pdb
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.csproj.AssemblyReference.cache
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.AssemblyInfoInputs.cache
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.AssemblyInfo.cs
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.csproj.CoreCompileInputs.cache
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.dll
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\ref\1.11.2021-practise.dll
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.pdb
+C:\Users\tu201806256\source\repos\1.11.2021-practise\1.11.2021-practise\obj\Debug\net5.0\1.11.2021-practise.genruntimeconfig.cache
